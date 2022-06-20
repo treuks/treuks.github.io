@@ -50,7 +50,7 @@ body {
 }
 .block-div {
 	flex-direction: column;
-	padding: 3em;
+	padding: 1.5em;
 }
 
 .link-div {
@@ -67,7 +67,7 @@ body {
 }
 
 .link-div a:visited {
-	color: #7affda;
+	color: #2c6253;
 }
 
 @media only screen and (min-width: 768px) {
